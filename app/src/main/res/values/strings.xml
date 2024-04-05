@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Imad Assignment</string>
+    <string name="generate_history">Generate History</string>
+    <string name="clear">Clear</string>
+    <string name="_36">36</string>
+    <string name="enter_age">Enter age</string>
+    <string name="textview">TextView</string>
+    <string name="_96">96</string>
+    <string name="data">data</string>
+    <string name="age">age</string>
+</resources>
